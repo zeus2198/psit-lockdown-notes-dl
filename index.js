@@ -11,7 +11,7 @@ var async = require('async');
 const BASE_URL = "https://erp.psit.in";
 
 const BASE_PATH = path.join(__dirname, 'downloads');
-const PARALLEL_FILE_LIMIT = 3; // no. of files to be downloaded at one time in parralell
+const PARALLEL_FILE_LIMIT = 3; // no. of files to be downloaded at one time in paralell
 
 const username = "18164102**";
 const password = "****";
