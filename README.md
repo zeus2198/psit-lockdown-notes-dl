@@ -4,6 +4,7 @@ This is a simple script that I wrote to download and rename the notes, according
 # What you need to do?
 Download the repo, or clone it using the following command:
 ```
+git clone git@github.com:xxxzeus/psit-lockdown-notes-dl.git
 ```
 Install the dependencies using:
 ```
