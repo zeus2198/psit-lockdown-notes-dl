@@ -15,7 +15,8 @@ or
 npm install
 ```
 
-After this head to index.js folder, and look for the following lines:
+
+After this head to `index.js` file, and look for the following lines:
 ```
 const username = "18164102**";
 const password = "****";
